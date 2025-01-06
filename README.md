@@ -5,4 +5,4 @@ This Repo contains two files:
 - **coffeeshop.css**: The CSS file used for styling the web page. It applies a cohesive color palette, typography, and layout adjustments for a polished appearance.
 ## How to View
 Clone the repository:
-git clone https://github.com/yourusername/coffeeshop.git
+git clone https://github.com/AakashThapliyal/CoffeeShopWebsite.git
